@@ -1,15 +1,15 @@
 <!-- Your title -->
 ## Hello! I'm Simone Nunes ツ
 
-👩🏻‍💻 I’m currently working as an analytics engineer, focused on collecting, processing and analyzing data;
+👩🏻‍💻 I currently work as an information technology teacher, focusing on Agile Software Development Methods, applications and Project Management
 
-🌱 I'm currently learning data science and python programming;
+🌱 I'm currently learning cloud programming and artificial intelligence;
 
-✨ I'm looking to colaborate on data-driven solutions;
+✨ I seek to collaborate on collaborative solutions for developing AI applications;
 
-⚡️ Fun-Fact: I have a degree in industrial engineering.
+⚡️ Fun fact: I love programming.
 
-💬 Feel free to contact me and find out more about my studies and work!
+💬 Feel free to contact me and find out more about my work!
 
 [![Gmail Badge](https://img.shields.io/badge/-simonecrj@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:simonecrj@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simonenunes/)
