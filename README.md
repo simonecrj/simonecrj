@@ -5,7 +5,7 @@
 
 🌱 I'm currently learning cloud programming and artificial intelligence;
 
-✨ I seek to collaborate on collaborative solutions for developing AI applications;
+✨ I seek to collaborate on solutions for developing AI applications;
 
 ⚡️ Fun fact: I love programming.
 
