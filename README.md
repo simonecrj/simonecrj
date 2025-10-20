@@ -4,7 +4,7 @@
 👩🏻‍💻 I currently work as an information technology teacher, focusing on Agile Software Development Methods,  artificial intelligence, 
 data science, Agile Project Management
 
-🌱 I'm currently specializing cloud programming and artificial intelligence;
+🌱 I'm specializing cloud programming and artificial intelligence;
 
 ✨ I seek to collaborate on solutions for developing AI applications;
 
